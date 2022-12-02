@@ -216,6 +216,13 @@ body {
     padding: 5px;
 }
 
+.testimony__fundator{
+    background-color: darkred;
+    color: #fff;
+    display: inline-block;
+    padding: 5px;
+}
+
 .testimony__diegojvc{
     background-color: goldenrod;
     color: #000;
@@ -545,6 +552,14 @@ body {
     }
 
     .testimony__course{
+        margin-top: 15px;
+    }
+
+    .testimony__diegojvc{
+        margin-top: 15px;
+    }
+
+    .testimony__fundator{
         margin-top: 15px;
     }
 
