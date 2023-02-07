@@ -216,6 +216,20 @@ body {
     padding: 5px;
 }
 
+.testimony__arquitecto{
+    background-color: lawngreen;
+    color: #fff;
+    display: inline-block;
+    padding: 5px;
+}
+
+.testimony__general{
+    background-color: blue;
+    color: #fff;
+    display: inline-block;
+    padding: 5px;
+}
+
 .testimony__fundator{
     background-color: darkred;
     color: #fff;
@@ -552,6 +566,14 @@ body {
     }
 
     .testimony__course{
+        margin-top: 15px;
+    }
+
+    .testimony__arquitecto{
+        margin-top: 15px;
+    }
+
+    .testimony__general{
         margin-top: 15px;
     }
 
